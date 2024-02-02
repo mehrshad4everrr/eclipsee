@@ -1,17 +1,9 @@
-۱- نیاز به یک والت اتریومم دارید که پرایویسی کی رو کپی کنید و توش هم فاست اتریوم سپولیا داشته باشید  
-
-
 sudo apt install npm
-
 npm install -g yarn 
-
 apt install cargo
-
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-
 source ~/.bashrc
-
-nvm install node
+ vm install node
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
