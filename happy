@@ -74,7 +74,6 @@ solana program deploy dist/program/helloworld.so
 npm run start
 
 
-تمام در پایان یک ایدی پرو گرام میتده بهتون باید ببرید توی فرم زیر پر کنید و سابمیت کنید
 
 https://forms.gle/yJfFABQDPmpvgzAf7
 
