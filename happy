@@ -32,3 +32,4 @@ solana program deploy dist/program/helloworld.so
 npm run start
 https://forms.gle/yJfFABQDPmpvgzAf7
 npm install
+yarn install
