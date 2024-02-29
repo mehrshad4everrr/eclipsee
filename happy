@@ -34,3 +34,4 @@ sudo apt-get update
 npm install
 yarn install
 npm install
+sudo apt-get install -y nodejs
