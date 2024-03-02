@@ -33,4 +33,3 @@ npm run start
 sudo apt-get update
 yarn install
 npm install
-sudo apt-get 
