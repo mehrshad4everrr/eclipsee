@@ -12,4 +12,4 @@ NODE_MAJOR=18
 sudo apt-get update
 sudo apt-get install -y ca-certificates curl gnupg 
 sudo mkdir -p /etc/apt/keyrings
-curl -fsSL https://deb.nodesource.com/gpgkey/nodesource
+curl -fsSL https://deb.nodesource.com/gpgkey/node
