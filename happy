@@ -17,3 +17,6 @@ source ~/.bashrc
 npm install -g yarn 
 apt install cargo
 ////////////////////
+sudo apt install npm
+npm install -g yarn 
+apt install cargo
